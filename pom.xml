@@ -6,7 +6,7 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>${project.groupId}:${project.artifactId}</name>
-  <description>US VISA Application Procedure</description>
+  <description>csecoder</description>
 
   <licenses>
     <license>
